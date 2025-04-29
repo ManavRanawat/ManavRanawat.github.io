@@ -1551,12 +1551,13 @@ footer {
 
 .footer-right-eye {
     box-shadow: 15px 15px 5px rgba(0, 0, 0, .233) inset, 10px 10px 5px rgba(41, 33, 33, .644) inset;
-    position: relative
+    position: relative;
+    right: 5px;
 }
 
 .footer-left-eye {
     box-shadow: -10px -15px 5px rgba(0, 0, 0, .349) inset;
-    position: relative
+    position: relative;
 }
 
 .footer-avatar-eye::before {
@@ -2117,7 +2118,7 @@ footer {
 	position:absolute;
 	left:0;top:25px;
 	font-weight:300;
-    color:#efc4f7;
+    color:#2f937a;
 	}
 	
 @media only screen and (max-width: 750px){
